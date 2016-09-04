@@ -1,0 +1,4 @@
+PART E Solution:
+Why don't you think git deletes branches you rebase from? 
+
+Using Rebase command, you can take the changes that were committed on one branch and replay them on the other one. There is no functionality in GIT which can automatically delete a branch unless its mentioned explicitly. 
